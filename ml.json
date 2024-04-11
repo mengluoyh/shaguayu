@@ -9,7 +9,7 @@
             "api": "csp_DouDou",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "filterable": 0
         },
         {
@@ -17,7 +17,7 @@
             "name": "┃直播┃电视",
             "type": 3,
             "api": "csp_Live2Vod",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "searchable": 0,
             "ext": "星辰$http://8.210.232.168/xclive.txt#春莹$https://wds.ecsxs.com/230864.json#顺溜$https://pan.shangui.cc/f/4aRLC0/顺溜TV.txt#饭太硬$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#小米$http://124.223.177.85:88/svip/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt#俊$http://home.jundie.top:81/Cat/tv/live.txt#IPTV$https://iptv.228088.xyz/cn.m3u#smile$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#APTV$https://go.ipayyds.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#GATHER$https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u#荷城$http://rihou.cc:88/hccx/zb.txt#月残$https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u#猫迷$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#分享$https://agit.ai/66666/mao/raw/branch/master/live20220813.txt#无意云$http://www.wya6.cn/tz/zb.php#二哈$https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt#小苹果$http://tipu.xjqxz.top/live1213.txt#易发$https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt#ITV$https://mirror.ghproxy.com/https://raw.githubusercontent.com/zgyd11/xiangjiao/main/itvlist.txt#神仙$http://www.liuyunw.com:88/zb.txt#时光$https://notabug.org/hailin/shiguang/raw/main//lib/tvlive.txt#业余$http://yydf.540734621.xyz/yydf/yydf/bd//yydf/live/%E7%9B%B4%E6%92%AD%E6%BA%90.php#摸鱼$http://我不是.摸鱼儿.top/live.php#小胡$https://huhuys.top/live.txt#综合$https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt#看电视呗$http://mywlkj.ddns.net:754/tv.php#小黑$https://d.kstore.space/download/7395/xiaohei.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://fanty.run.goorm.site/live.txt#小米$http://124.223.177.85:88/svip/直播挺快.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#影视车$https://weixine.net/tv/ysclive.txt#DX$https://jihulab.com/yiger/tvbox1/-/raw/main/live/dx?ref_type=heads#TV$https://jihulab.com/tvbox2752251/tvbox/-/raw/main/tvlive/tvlive.txt?ref_type=heads#吾爱$https://jihulab.com/nnvn/tvbox/-/raw/main/tvlive/wuai.txt?ref_type=heads&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"
         },
@@ -26,7 +26,7 @@
             "name": "┃直播┃综合",
             "type": 3,
             "api": "csp_Yj1211",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "searchable": 1
         },
         {
@@ -143,7 +143,7 @@
             "name": "┃Mp4电影┃磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -153,7 +153,7 @@
             "name": "┃SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -164,7 +164,7 @@
             "name": "┃酷吧电影┃磁力",
             "type": 3,
             "api": "csp_KubaCL",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -175,7 +175,7 @@
             "name": "┃美剧迷┃磁力",
             "type": 3,
             "api": "csp_MeijuMi",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -186,7 +186,7 @@
             "name": "┃迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -201,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/4KHDR.json"
         },
         {
@@ -212,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/BT天堂.json"
         },
         {
@@ -223,7 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/高清MP4.json"
         },
         {
@@ -234,7 +234,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/哔嘀影视.json"
         },
         {
@@ -294,7 +294,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/磁力熊.json"
         },
         {
@@ -305,7 +305,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/好恐怖磁力.json"
         },
         {
@@ -316,7 +316,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/wo4k.json"
         },
         {
@@ -327,7 +327,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/布谷TV.json"
         },
         {
@@ -338,7 +338,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/迅雷电影天堂.json"
         },
         {
@@ -349,7 +349,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "图片": "data-src=\"&&\"",
                 "播放标题": "title=\"&&\"",
@@ -372,7 +372,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "图片": "data-src=\"&&\"",
                 "线路数组": "data-dropdown-value=&&</div>",
@@ -403,7 +403,7 @@
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "filterable": 1,
             "ext": {
                 "danmu": true
@@ -418,7 +418,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+<p&&</p>",
                 "线路数组": "data-dropdown-value=&&</div>",
@@ -437,7 +437,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+<p&&</p>",
                 "搜索url": "https://jinmantv.com/index.php/vod/search.html?wd={wd}",
@@ -461,7 +461,7 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "https://www.czzy88.com/",
             "filterable": 1
         },
@@ -473,7 +473,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "图片": "data-original=\"&&\"",
                 "搜索url": "https://kanb.tv/Videosearch/KKKKKKKKKKKKK.html?wd={wd}&submit=",
@@ -491,7 +491,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "图片": "data-original=\"&&\"",
                 "搜索url": "https://www.zxzjhd.com/vodsearch/-------------.html?wd={wd}&submit=",
@@ -514,7 +514,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+<p&&</p>",
                 "图片": "data-echo=\"&&\"",
@@ -539,7 +539,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+video-info-item video-info-content vod_content\">&&</span>",
                 "影片状态": "集数：&&</div>",
@@ -566,7 +566,7 @@
             "name": "┃可可┃蓝光",
             "type": 3,
             "changeable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",
@@ -590,7 +590,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
                 "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
@@ -609,7 +609,7 @@
             "name": "┃云播┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "影片类型": "分类：&&主演",
                 "导演": "导演：</span>&&</p>",
@@ -641,7 +641,7 @@
             "key": "爱看",
             "name": "┃爱看┃蓝光",
             "type": 3,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.3ayy.com",
@@ -676,7 +676,7 @@
             "name": "┃热播之家┃蓝光",
             "type": 3,
             "changeable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -950,7 +950,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "图片": "data-original=\"&&\"",
                 "线路标题": "role=\"group\">&&</li>[替换:线路1>>囧次元专线#线路2>>囧次元VIP#线路3>>囧次元L#线路4>>囧次元F]",
@@ -967,7 +967,7 @@
             "name": "┃DYXS┃蓝光[有广告]",
             "type": 3,
             "changeable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "搜索url": "https://soupian.pro/s?key={wd}&style=a&name=电影先生&from=dyxs-search",
@@ -988,7 +988,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+<p&&</p>",
                 "搜索url": "https://www.ajggg.com/search.html?wd={wd}",
@@ -1008,7 +1008,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "作者": "梦落",
                 "站名": "大米星球",
@@ -1031,7 +1031,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "简介": "+<p&&</p>",
                 "线路数组": "data-dropdown-value=&&</div>",
@@ -1047,7 +1047,7 @@
             "name": "┃YSK┃蓝光[有广告]",
             "type": 3,
             "changeable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "搜索url": "https://www.yingshikong1.com/search--------------.html?wd={wd}&submit=",
@@ -1062,7 +1062,7 @@
             "name": "┃剧GG┃蓝光[有广告]",
             "type": 3,
             "changeable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext": {
@@ -1084,7 +1084,7 @@
             "name": "┃3443┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "线路数组": "data-toggle=&&</li>",
                 "线路标题": "<a&&</a>",
@@ -1098,7 +1098,7 @@
             "name": "┃348┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "数组": "list-width volistwidthb\">&&</li>",
                 "标题": "title=\"&&\"",
@@ -1117,7 +1117,7 @@
             "name": "┃人人┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
                 "分类url": "https://www.rttks.com/rrtop/{cateId}/page/{catePg}.html;;akm0",
@@ -1143,7 +1143,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "./json/量子资源网.json"
         },
         {
@@ -1151,7 +1151,7 @@
             "name": "┃新世界┃动漫[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "播放数组": "<div class=\"video_list fn-clear&&</div>",
                 "播放列表": "<a&&</a>",
@@ -1171,7 +1171,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },
         {
@@ -1179,7 +1179,7 @@
             "name": "┃在线┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "线路数组": "data-toggle=&&</a>",
                 "线路标题": "<font>&&</font>",
@@ -1194,7 +1194,7 @@
             "name": "┃歪片┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "标题": "alt=\"&&\"",
                 "线路数组": "<span data-dropdown-value=&&</span>",
@@ -1208,7 +1208,7 @@
             "name": "┃7i┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "标题": "alt=\"&&\"",
                 "线路数组": "data-dropdown-value=&&</span>",
@@ -1222,7 +1222,7 @@
             "name": "┃蚂蚁┃蓝光[有广告]",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/cili.jar",
+            "jar": "./cili.jar",
             "ext": {
                 "线路数组": "data-mid=&&</a>",
                 "线路标题": "</em>&&</a>",
