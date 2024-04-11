@@ -374,6 +374,7 @@
                 "分类url": "http://www.mxdm9.com/show/{cateId}---{class}-----{catePg}---.html",
                 "分类": "国漫$guoman#日漫$riman#动漫电影$dmdianying#欧美$oman"
             }
+        },
         {
             "key": "360_spider",
             "name": "┃360┃1080P",
@@ -425,7 +426,6 @@
             "quickSearch": 1,
             "jar": "./shaguayu.jar",
             "filterable": 1
-        },
         },
         {
             "key": "原创",
