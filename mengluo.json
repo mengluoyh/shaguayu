@@ -105,35 +105,11 @@
             "ext": "./json/玩偶哥哥hccx.json"
         },
         {
-            "key": "csp_Panda_玩偶哥哥",
-            "name": "┃玩偶表哥┃T4",
-            "api": "csp_Wogg",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "jar": "https://tang.serv00.net/file/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A",
-            "ext": "./token.txt"
-        },
-        {
-            "key": "csp_Panda_玩偶表妹",
-            "name": "┃玩偶表妹┃T4",
-            "api": "csp_Wogg",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "jar": "./jar/PandaQ.jar",
-            "ext": "./token.txt"
-        },
-        {
             "key": "csp_Mp4Mov",
             "name": "┃Mp4电影┃磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -143,7 +119,7 @@
             "name": "┃SeedHub┃磁力",
             "type": 3,
             "api": "csp_SeedHub",
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -154,7 +130,7 @@
             "name": "┃酷吧电影┃磁力",
             "type": 3,
             "api": "csp_KubaCL",
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -165,7 +141,7 @@
             "name": "┃美剧迷┃磁力",
             "type": 3,
             "api": "csp_MeijuMi",
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -176,7 +152,7 @@
             "name": "┃迅雷吧┃磁力",
             "type": 3,
             "api": "csp_Xunlei8",
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -191,7 +167,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/4KHDR.json"
         },
         {
@@ -202,7 +178,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/BT天堂.json"
         },
         {
@@ -213,7 +189,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/高清MP4.json"
         },
         {
@@ -224,7 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/哔嘀影视.json"
         },
         {
@@ -278,7 +254,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": " ./json/电影港.json",
-            "jar": "./jar/磁力.jar"
+            "jar": "./jar/XYQ.jar"
         },
         {
             "key": "csp_XYQHiker_磁力熊",
@@ -321,7 +297,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/布谷TV.json"
         },
         {
@@ -332,7 +308,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/磁力.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/迅雷电影天堂.json"
         },
         {
@@ -380,31 +356,6 @@
             }
         },
         {
-            "key": "原创",
-            "name": "┃神秘┃1080P",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
-            "changeable": 1
-        },
-        {
-            "key": "csp_低端影视",
-            "name": "┃低端┃1080P",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./jar/fan.jar",
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 25
-        },
-        {
             "key": "csp_新视觉",
             "name": "┃新视觉┃1080P",
             "type": 3,
@@ -447,6 +398,31 @@
             }
         },
         {
+            "key": "原创",
+            "name": "┃神秘┃1080P",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
+            "changeable": 1
+        },
+        {
+            "key": "csp_低端影视",
+            "name": "┃低端┃1080P",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 25
+        },
+        {
             "key": "csp_Czsapp",
             "name": "┃厂长┃1080P",
             "type": 3,
@@ -455,7 +431,7 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 1,
-            "jar": "./jar/fan.jar",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
             "ext": "https://www.czzy88.com/",
             "filterable": 1
         },
@@ -753,62 +729,6 @@
             "changeable": 0
         },
         {
-            "key": "企鹅体育xp",
-            "name": "┃鹅鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
-        },
-        {
-            "key": "88js",
-            "name": "┃ 88┃看球",
-            "type": 3,
-            "api": "./js/drpy3.min.js",
-            "ext": "./js/88看球.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_qiumi",
-            "name": "┃球迷┃看球",
-            "type": 3,
-            "api": "./js/drpy3.min.js",
-            "ext": "./js/JRKAN直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_310直播",
-            "name": "┃310┃看球",
-            "type": 3,
-            "api": "./js/drpy3.min.js",
-            "ext": "./js/310直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "MTV",
             "name": "┃明星┃MV",
             "type": 3,
@@ -865,8 +785,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/网易CC.json",
-            "jar": "./jar/XYQBiu.jar"
+            "jar": "./jar/XYQ.jar",
+            "ext": "./json/网易CC.json"
         },
         {
             "key": "虎牙直播js",
@@ -1126,7 +1046,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XYQHiker",
-            "jar": "./jar/XYQBiu.jar",
+            "jar": "./jar/XYQ.jar",
             "ext": "./json/VS影院.json"
         },
         {
@@ -1165,7 +1085,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/fan.jar",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
         },
         {
