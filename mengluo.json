@@ -266,8 +266,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./js/drpy3.min.js",
-            "ext": "./js/jp.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/荐片.js"
         },
         {
             "key": "csp_XYQHikerdyx",
