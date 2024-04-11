@@ -3,33 +3,6 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
-            "key": "豆豆",
-            "name": "梦落",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "jar": "./jar/fan.jar",
-            "filterable": 0
-        },
-        {
-            "key": "csp_Live2Vod_1",
-            "name": "┃直播┃电视",
-            "type": 3,
-            "api": "csp_Live2Vod",
-            "jar": "./jar/candymuj.jar",
-            "searchable": 0,
-            "ext": "星辰$http://8.210.232.168/xclive.txt#春莹$https://wds.ecsxs.com/230864.json#顺溜$https://pan.shangui.cc/f/4aRLC0/顺溜TV.txt#饭太硬$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#小米$http://124.223.177.85:88/svip/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt#俊$http://home.jundie.top:81/Cat/tv/live.txt#IPTV$https://iptv.228088.xyz/cn.m3u#smile$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#APTV$https://go.ipayyds.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#GATHER$https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u#荷城$http://rihou.cc:88/hccx/zb.txt#月残$https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u#猫迷$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#分享$https://agit.ai/66666/mao/raw/branch/master/live20220813.txt#无意云$http://www.wya6.cn/tz/zb.php#二哈$https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt#小苹果$http://tipu.xjqxz.top/live1213.txt#易发$https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt#ITV$https://mirror.ghproxy.com/https://raw.githubusercontent.com/zgyd11/xiangjiao/main/itvlist.txt#神仙$http://www.liuyunw.com:88/zb.txt#时光$https://notabug.org/hailin/shiguang/raw/main//lib/tvlive.txt#业余$http://yydf.540734621.xyz/yydf/yydf/bd//yydf/live/%E7%9B%B4%E6%92%AD%E6%BA%90.php#摸鱼$http://我不是.摸鱼儿.top/live.php#小胡$https://huhuys.top/live.txt#综合$https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt#看电视呗$http://mywlkj.ddns.net:754/tv.php#小黑$https://d.kstore.space/download/7395/xiaohei.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://fanty.run.goorm.site/live.txt#小米$http://124.223.177.85:88/svip/直播挺快.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#影视车$https://weixine.net/tv/ysclive.txt#DX$https://jihulab.com/yiger/tvbox1/-/raw/main/live/dx?ref_type=heads#TV$https://jihulab.com/tvbox2752251/tvbox/-/raw/main/tvlive/tvlive.txt?ref_type=heads#吾爱$https://jihulab.com/nnvn/tvbox/-/raw/main/tvlive/wuai.txt?ref_type=heads&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "┃直播┃综合",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "jar": "./jar/candymuj.jar",
-            "searchable": 1
-        },
-        {
             "key": "alist",
             "name": "┃AList┃小雅",
             "type": 3,
@@ -63,6 +36,23 @@
                     }
                 ]
             }
+        },
+        {
+            "key": "csp_Live2Vod_1",
+            "name": "┃直播┃电视",
+            "type": 3,
+            "api": "csp_Live2Vod",
+            "jar": "./jar/candymuj.jar",
+            "searchable": 0,
+            "ext": "星辰$http://8.210.232.168/xclive.txt#春莹$https://wds.ecsxs.com/230864.json#顺溜$https://pan.shangui.cc/f/4aRLC0/顺溜TV.txt#饭太硬$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#小米$http://124.223.177.85:88/svip/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt#俊$http://home.jundie.top:81/Cat/tv/live.txt#IPTV$https://iptv.228088.xyz/cn.m3u#smile$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#APTV$https://go.ipayyds.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u#GATHER$https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u#荷城$http://rihou.cc:88/hccx/zb.txt#月残$https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u#猫迷$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#分享$https://agit.ai/66666/mao/raw/branch/master/live20220813.txt#无意云$http://www.wya6.cn/tz/zb.php#二哈$https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt#小苹果$http://tipu.xjqxz.top/live1213.txt#易发$https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt#ITV$https://mirror.ghproxy.com/https://raw.githubusercontent.com/zgyd11/xiangjiao/main/itvlist.txt#神仙$http://www.liuyunw.com:88/zb.txt#时光$https://notabug.org/hailin/shiguang/raw/main//lib/tvlive.txt#业余$http://yydf.540734621.xyz/yydf/yydf/bd//yydf/live/%E7%9B%B4%E6%92%AD%E6%BA%90.php#摸鱼$http://我不是.摸鱼儿.top/live.php#小胡$https://huhuys.top/live.txt#综合$https://mirror.ghproxy.com/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt#看电视呗$http://mywlkj.ddns.net:754/tv.php#小黑$https://d.kstore.space/download/7395/xiaohei.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://fanty.run.goorm.site/live.txt#小米$http://124.223.177.85:88/svip/直播挺快.txt#肥猫$http://我不是.肥猫.live/TV/tvzb.txt#影视车$https://weixine.net/tv/ysclive.txt#DX$https://jihulab.com/yiger/tvbox1/-/raw/main/live/dx?ref_type=heads#TV$https://jihulab.com/tvbox2752251/tvbox/-/raw/main/tvlive/tvlive.txt?ref_type=heads#吾爱$https://jihulab.com/nnvn/tvbox/-/raw/main/tvlive/wuai.txt?ref_type=heads&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"
+        },
+        {
+            "key": "csp_Yj1211",
+            "name": "┃直播┃综合",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "jar": "./jar/candymuj.jar",
+            "searchable": 1
         },
         {
             "key": "玩偶",
@@ -258,28 +248,6 @@
             "jar": "./jar/candymuj.jar"
         },
         {
-            "key": "csp_XYQHiker_‍dyx",
-            "name": "┃宙磁┃磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/dyg.json",
-            "jar": "./jar/磁力.jar"
-        },
-        {
-            "key": "csp_New6v",
-            "name": "┃新六维┃磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.xb6v.com/",
-            "jar": "./jar/XYQBiu.jar"
-        },
-        {
             "key": "新6V1",
             "name": "┃新6V┃磁力",
             "type": 3,
@@ -300,24 +268,6 @@
             "playerType": "1",
             "api": "./js/drpy3.min.js",
             "ext": "./js/jp.js"
-        },
-        {
-            "key": "JianPian",
-            "name": "┃荐片┃磁力",
-            "type": 3,
-            "api": "csp_JianPian",
-            "jar": "./jar/荐片.jar"
-        },
-        {
-            "key": "电影港",
-            "name": "┃电影港┃磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./json/电影港磁力.json",
-            "jar": "./jar/电影港.jar"
         },
         {
             "key": "csp_XYQHikerdyx",
@@ -431,7 +381,7 @@
         },
         {
             "key": "原创",
-            "name": "┃神秘┃无广",
+            "name": "┃神秘┃1080P",
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
