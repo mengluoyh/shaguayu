@@ -268,17 +268,6 @@
             "ext": "./json/磁力熊.json"
         },
         {
-            "key": "csp_XYQBiu_好恐怖磁力",
-            "name": "┃好恐怖┃磁力",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./jar/XYQBiu.jar",
-            "ext": "./json/好恐怖磁力.json"
-        },
-        {
             "key": "csp_XYQHiker_wo4k",
             "name": "┃wo4k┃磁力",
             "type": 3,
@@ -776,17 +765,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
-        {
-            "key": "网易CC",
-            "name": "┃网易┃CC",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "./jar/XYQBiu.jar",
-            "ext": "./json/网易CC.json"
         },
         {
             "key": "虎牙直播js",
