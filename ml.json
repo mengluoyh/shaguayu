@@ -332,53 +332,6 @@
             "ext": "./json/迅雷电影天堂.json"
         },
         {
-            "key": "360_spider",
-            "name": "┃360┃1080P",
-            "type": 3,
-            "api": "csp_SP360",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "csp_Kuaikan",
-            "name": "┃快看┃1080P",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "┃厂长┃1080P",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czzy55.com"
-        },
-        {
-            "key": "csp_Ddys",
-            "name": "┃低端┃1080P",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "┃77┃1080P",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_NT动漫",
             "name": "┃NT┃动漫",
             "type": 3,
@@ -421,10 +374,62 @@
                 "分类url": "http://www.mxdm9.com/show/{cateId}---{class}-----{catePg}---.html",
                 "分类": "国漫$guoman#日漫$riman#动漫电影$dmdianying#欧美$oman"
             }
+        {
+            "key": "360_spider",
+            "name": "┃360┃1080P",
+            "type": 3,
+            "api": "csp_SP360",
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "./shaguayu.jar",
+            "searchable": 1
+        },
+        {
+            "key": "csp_Kuaikan",
+            "name": "┃快看┃1080P",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./shaguayu.jar",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "┃厂长┃1080P",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./shaguayu.jar",
+            "ext": "https://www.czzy55.com"
+        },
+        {
+            "key": "csp_Ddys",
+            "name": "┃低端┃1080P",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./shaguayu.jar",
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "┃77┃1080P",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "./shaguayu.jar",
+            "filterable": 1
+        },
         },
         {
             "key": "原创",
-            "name": "┃神秘┃无广",
+            "name": "┃神秘┃1080P",
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
@@ -573,7 +578,7 @@
         },
         {
             "key": "可可影视",
-            "name": "┃可可┃蓝光",
+            "name": "┃可可┃1080P",
             "type": 3,
             "changeable": 1,
             "jar": "./shaguayu.jar",
@@ -593,7 +598,7 @@
         },
         {
             "key": "骚火",
-            "name": "┃骚火┃蓝光",
+            "name": "┃骚火┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -616,7 +621,7 @@
         },
         {
             "key": "云播",
-            "name": "┃云播┃蓝光",
+            "name": "┃云播┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./shaguayu.jar",
@@ -649,7 +654,7 @@
         },
         {
             "key": "爱看",
-            "name": "┃爱看┃蓝光",
+            "name": "┃爱看┃1080P",
             "type": 3,
             "jar": "./shaguayu.jar",
             "api": "csp_XBPQ",
@@ -683,7 +688,7 @@
         },
         {
             "key": "热播之家",
-            "name": "┃热播之家┃蓝光",
+            "name": "┃热播之家┃1080P",
             "type": 3,
             "changeable": 1,
             "jar": "./shaguayu.jar",
